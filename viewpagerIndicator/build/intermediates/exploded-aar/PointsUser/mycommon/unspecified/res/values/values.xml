@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black2">#444444</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="gray">#d1d1d1</color>
+    <color name="gray2">#757575</color>
+    <color name="gray3">#e6e6e6</color>
+    <color name="gray4">#999999</color>
+    <color name="gray5">#cccccc</color>
+    <color name="gray6">#b1b1b1</color>
+    <declare-styleable name="SelectableRoundedImageView"><attr format="dimension" name="sriv_left_top_corner_radius"/><attr format="dimension" name="sriv_right_top_corner_radius"/><attr format="dimension" name="sriv_left_bottom_corner_radius"/><attr format="dimension" name="sriv_right_bottom_corner_radius"/><attr format="dimension" name="sriv_border_width"/><attr format="color" name="sriv_border_color"/><attr format="boolean" name="sriv_oval"/><attr name="android:scaleType"/></declare-styleable>
+    <string name="app_name">MyCommon</string>
+    <string name="connect_server_error">连接服务器超时,请稍候重试</string>
+    <style name="Animation.Activity.Translucent.Style" parent="@android:style/Animation.Translucent">
+        <!--<item name="android:windowEnterAnimation">@anim/right_in_anim</item>-->
+        <!--<item name="android:windowExitAnimation">@anim/right_out_anim</item>-->
+        <item name="android:activityOpenEnterAnimation">@anim/right_in_anim</item>
+        <item name="android:activityOpenExitAnimation">@anim/right_out_anim</item>
+        <item name="android:activityCloseEnterAnimation">@anim/right_in_anim</item>
+        <item name="android:activityCloseExitAnimation">@anim/right_out_anim</item>
+    </style>
+    <style name="Animation_Activity" parent="@android:style/Animation.Activity">
+        <item name="android:activityOpenEnterAnimation">@anim/right_in_anim</item>
+        <item name="android:activityOpenExitAnimation">@anim/right_out_anim</item>
+        <item name="android:activityCloseEnterAnimation">@anim/right_in_anim</item>
+        <item name="android:activityCloseExitAnimation">@anim/right_out_anim</item>
+    </style>
+    <style name="AppBaseTheme" parent="android:Theme.Light">
+    </style>
+    <style name="AppTheme" parent="AppBaseTheme">
+    </style>
+    <style name="et_style_common">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">40dp</item>
+        <item name="android:textColor">@android:color/black</item>
+        <item name="android:textColorHint">@color/gray4</item>
+        <item name="android:textSize">15sp</item>
+        <item name="android:gravity">center</item>
+        <item name="android:background">@drawable/et_common_bg</item>
+        <item name="android:textCursorDrawable">@null</item>
+        <item name="android:singleLine">true</item>
+    </style>
+    <style name="loading_dialog" parent="android:style/Theme.Dialog">
+        <!--<item name="android:windowFrame">@null</item>-->
+        <item name="android:windowNoTitle">true</item>
+        <!--<item name="android:windowBackground">@mipmap/transparent</item>-->
+        <!--<item name="android:windowIsFloating">true</item>-->
+        <!--<item name="android:windowContentOverlay">@null</item>-->
+        <!--<item name="android:backgroundDimEnabled">false</item>-->
+    </style>
+</resources>

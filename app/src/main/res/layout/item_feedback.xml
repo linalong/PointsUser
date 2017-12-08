@@ -1,0 +1,52 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:background="@color/white"
+    android:gravity="center_vertical"
+    android:orientation="vertical">
+
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="1px"
+        android:background="@color/gray12" />
+
+    <LinearLayout
+        android:id="@+id/ll_issue"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@color/gray8"
+        android:gravity="center_vertical"
+        android:orientation="horizontal"
+        android:padding="10dp">
+
+
+        <TextView
+            android:id="@+id/tv_issue"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:ellipsize="end"
+            android:maxLines="1"
+            android:text="爱妃的小麻雀"
+            android:textColor="@color/black2"
+            android:textSize="14sp" />
+
+
+        <ImageView
+            android:id="@+id/iv_arrow"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:src="@mipmap/iv_down_black" />
+    </LinearLayout>
+
+
+    <TextView
+        android:id="@+id/tv_answer"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:padding="10dp"
+        android:text="位于OK空间哦接近你"
+        android:textColor="@color/gray11"
+        android:textSize="@dimen/textsize_3"
+        android:visibility="visible" />
+</LinearLayout>

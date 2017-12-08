@@ -1,0 +1,6 @@
+<resources>
+
+    <color name="color_selected">#F74765</color>
+    <color name="color_unselected">#555555</color>
+
+</resources>

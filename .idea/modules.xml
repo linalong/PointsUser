@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/NetModule/NetModule.iml" filepath="$PROJECT_DIR$/NetModule/NetModule.iml" />
+      <module fileurl="file://$PROJECT_DIR$/PointsUser.iml" filepath="$PROJECT_DIR$/PointsUser.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../CommonModules/PullToRefresh/PullToRefresh.iml" filepath="$PROJECT_DIR$/../CommonModules/PullToRefresh/PullToRefresh.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../CommonModules/SwipeBackLibrary/SwipeBackLibrary.iml" filepath="$PROJECT_DIR$/../CommonModules/SwipeBackLibrary/SwipeBackLibrary.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../CommonModules/citypickerview/citypickerview.iml" filepath="$PROJECT_DIR$/../CommonModules/citypickerview/citypickerview.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../CommonModules/materialDesign/materialDesign.iml" filepath="$PROJECT_DIR$/../CommonModules/materialDesign/materialDesign.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../CommonModules/mycommon/mycommon.iml" filepath="$PROJECT_DIR$/../CommonModules/mycommon/mycommon.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../CommonModules/niftymodaldialogeffects/niftymodaldialogeffects.iml" filepath="$PROJECT_DIR$/../CommonModules/niftymodaldialogeffects/niftymodaldialogeffects.iml" />
+      <module fileurl="file://$PROJECT_DIR$/viewpagerIndicator/viewpagerIndicator.iml" filepath="$PROJECT_DIR$/viewpagerIndicator/viewpagerIndicator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../CommonModules/xutils/xutils.iml" filepath="$PROJECT_DIR$/../CommonModules/xutils/xutils.iml" />
+    </modules>
+  </component>
+</project>

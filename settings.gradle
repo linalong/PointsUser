@@ -1,0 +1,24 @@
+include ':app', ':NetModule', ':viewpagerIndicator'
+
+include ':mycommon'
+project(':mycommon').projectDir = new File('../CommonModules/mycommon')
+
+include ':citypickerview'
+project(':citypickerview').projectDir = new File('../CommonModules/citypickerview')
+
+include ':materialDesign'
+project(':materialDesign').projectDir = new File('../CommonModules/materialDesign')
+
+include ':xutils'
+project(':xutils').projectDir = new File('../CommonModules/xutils')
+
+include ':PullToRefresh'
+project(':PullToRefresh').projectDir = new File('../CommonModules/PullToRefresh')
+
+include ':SwipeBackLibrary'
+project(':SwipeBackLibrary').projectDir = new File('../CommonModules/SwipeBackLibrary')
+
+
+include ':niftymodaldialogeffects'
+project(':niftymodaldialogeffects').projectDir = new File('../CommonModules/niftymodaldialogeffects')
+

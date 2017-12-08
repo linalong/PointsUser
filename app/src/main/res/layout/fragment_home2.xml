@@ -1,0 +1,98 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/parent_layout"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/white"
+    android:orientation="vertical">
+
+    <android.support.v4.widget.SwipeRefreshLayout
+        android:id="@+id/swipe_container"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="@null">
+
+        <com.heizi.mycommon.view.MyScrollView
+            android:id="@+id/scrollView"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="vertical">
+
+
+
+                <RelativeLayout
+                    android:id="@+id/rl_top"
+                    android:layout_width="match_parent"
+                    android:layout_height="150dp"
+                    android:background="@color/blue5">
+
+
+                    <android.support.v4.view.ViewPager
+                        android:id="@+id/vp_top"
+                        android:layout_width="match_parent"
+                        android:layout_height="150dp"
+                        android:visibility="visible" />
+
+                    <LinearLayout
+                        android:id="@+id/pointlayout"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_alignParentBottom="true"
+                        android:layout_centerHorizontal="true"
+                        android:layout_marginBottom="15dp"
+                        android:orientation="horizontal" />
+
+                    <include layout="@layout/include_title_home" />
+
+                </RelativeLayout>
+
+
+                <RelativeLayout
+                    android:id="@+id/rl_mid"
+                    android:layout_width="match_parent"
+                    android:layout_height="175dp"
+                    android:background="@color/white">
+
+                    <android.support.v4.view.ViewPager
+                        android:id="@+id/vp_mid"
+                        android:layout_width="match_parent"
+                        android:layout_height="160dp"
+                        android:visibility="visible" />
+
+                    <LinearLayout
+                        android:id="@+id/pointlayout_mid"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_alignParentBottom="true"
+                        android:layout_below="@id/vp_mid"
+                        android:layout_centerHorizontal="true"
+                        android:layout_marginBottom="5dp"
+                        android:orientation="horizontal" />
+
+                </RelativeLayout>
+
+
+                <ListView
+                    android:id="@+id/listview"
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:background="@null"
+                    android:divider="@color/gray2"
+                    android:dividerHeight="1px"
+                    android:focusable="false" />
+
+                <include
+                    android:id="@+id/ll_notice"
+                    layout="@layout/include_notice"
+                    android:visibility="gone" />
+
+            </LinearLayout>
+
+        </com.heizi.mycommon.view.MyScrollView>
+
+    </android.support.v4.widget.SwipeRefreshLayout>
+
+</LinearLayout>

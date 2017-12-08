@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@null"
+    android:orientation="vertical" 
+    android:gravity="bottom">
+
+    <TextView
+        android:id="@+id/tv_take_photo"
+        android:layout_width="match_parent"
+        android:layout_height="60dp"
+        android:layout_gravity="center_horizontal"
+        android:layout_marginBottom="1px"
+        android:background="@color/white"
+        android:gravity="center"
+        android:text="@string/take_photo"
+        android:textColor="@color/black2"
+        android:textSize="14sp" />
+
+    <TextView
+        android:id="@+id/tv_picture"
+        android:layout_width="match_parent"
+        android:layout_height="60dp"
+        android:layout_gravity="center_horizontal"
+        android:layout_marginBottom="1px"
+        android:background="@color/white"
+        android:gravity="center"
+        android:text="@string/pick_photo"
+        android:textColor="@color/black2"
+        android:textSize="14sp" />
+
+    <TextView
+        android:id="@+id/tv_cancle"
+        android:layout_width="match_parent"
+        android:layout_height="60dp"
+        android:layout_gravity="center_horizontal"
+        android:background="@color/white"
+        android:gravity="center"
+        android:text="@string/setting_cancle_prompt"
+        android:textColor="@color/gray1"
+        android:textSize="14sp" />
+
+</LinearLayout>

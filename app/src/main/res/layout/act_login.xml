@@ -1,0 +1,79 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:background="@android:color/white"
+    android:orientation="vertical">
+
+    <include layout="@layout/include_title" />
+
+    <EditText
+        android:id="@+id/et_name"
+        style="@style/et_style_login"
+        android:layout_marginLeft="15dp"
+        android:layout_marginRight="15dp"
+        android:layout_marginTop="20dp"
+        android:drawableLeft="@mipmap/iv_phone2"
+        android:drawablePadding="20dp"
+        android:hint="请输入手机号"
+        android:inputType="number"
+        android:maxLength="30"
+        android:paddingBottom="5dp"
+        android:paddingLeft="10dp" />
+
+    <EditText
+        android:id="@+id/et_pwd"
+        style="@style/et_style_login"
+        android:layout_marginLeft="15dp"
+        android:layout_marginRight="15dp"
+        android:layout_marginTop="15dp"
+        android:drawableLeft="@mipmap/iv_suo"
+        android:drawablePadding="20dp"
+        android:hint="请输入登录密码"
+        android:inputType="textPassword"
+        android:maxLength="20"
+        android:paddingLeft="10dp" />
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="20dp">
+
+        <TextView
+            android:id="@+id/tv_forget_pwd"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:gravity="center"
+            android:padding="10dp"
+            android:text="忘记密码?"
+            android:textColor="@color/gray1"
+            android:textSize="@dimen/textsize_3" />
+
+        <TextView
+            android:id="@+id/tv_register"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginRight="20dp"
+            android:layout_weight="1"
+            android:gravity="center"
+            android:padding="10dp"
+            android:text="快速注册"
+            android:textColor="@color/red"
+            android:textSize="@dimen/textsize_3" />
+    </LinearLayout>
+
+    <Button
+        android:id="@+id/btn_login"
+        android:layout_width="fill_parent"
+        android:layout_height="50dp"
+        android:layout_marginLeft="10dp"
+        android:layout_marginRight="10dp"
+        android:layout_marginTop="40dp"
+        android:background="@drawable/btn_common_bg"
+        android:paddingBottom="10dp"
+        android:paddingTop="10dp"
+        android:text="确    定"
+        android:textColor="@color/white"
+        android:textSize="@dimen/textsize_4" />
+
+</LinearLayout>

@@ -1,0 +1,57 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <include
+        android:id="@+id/include"
+        layout="@layout/include_title"></include>
+
+    <RelativeLayout
+        android:id="@+id/ftabs_bottom"
+        android:layout_width="match_parent"
+        android:layout_height="48dp"
+        android:layout_alignParentBottom="true">
+
+        <LinearLayout
+            android:id="@+id/tabs_bottom"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_alignParentBottom="true"
+            android:background="@color/white"
+            android:gravity="center_vertical"
+            android:orientation="horizontal">
+
+            <com.heizi.mycommon.view.NoticeTextView
+                android:id="@+id/tabs_guide1"
+                style="@style/main_tab_bottom2"
+                android:drawableTop="@mipmap/home_0_03"
+                android:text="首页" />
+
+            <com.heizi.mycommon.view.NoticeTextView
+                android:id="@+id/tabs_guide2"
+                style="@style/main_tab_bottom2"
+                android:drawableTop="@mipmap/home_0_05"
+                android:text="买单" />
+
+            <com.heizi.mycommon.view.NoticeTextView
+                android:id="@+id/tabs_guide3"
+                style="@style/main_tab_bottom2"
+                android:drawableTop="@mipmap/home_0_07"
+                android:text="我的" />
+
+
+        </LinearLayout>
+
+        <View
+            android:layout_width="match_parent"
+            android:layout_height="0.5dp"
+            android:background="@color/gray2" />
+    </RelativeLayout>
+
+    <com.heizi.mycommon.view.NoScrollViewPager
+        android:id="@+id/vp_main"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_above="@id/ftabs_bottom"></com.heizi.mycommon.view.NoScrollViewPager>
+
+</RelativeLayout>

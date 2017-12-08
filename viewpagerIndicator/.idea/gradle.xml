@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GradleSettings">
+    <option name="linkedExternalProjectsSettings">
+      <GradleProjectSettings>
+        <option name="distributionType" value="DEFAULT_WRAPPED" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/../../CommonModules/PullToRefresh" />
+            <option value="$PROJECT_DIR$/../../CommonModules/SwipeBackLibrary" />
+            <option value="$PROJECT_DIR$/../../CommonModules/citypickerview" />
+            <option value="$PROJECT_DIR$/../../CommonModules/materialDesign" />
+            <option value="$PROJECT_DIR$/../../CommonModules/mycommon" />
+            <option value="$PROJECT_DIR$/../../CommonModules/niftymodaldialogeffects" />
+            <option value="$PROJECT_DIR$/../../CommonModules/xutils" />
+            <option value="$PROJECT_DIR$/.." />
+            <option value="$PROJECT_DIR$/../IMKit" />
+            <option value="$PROJECT_DIR$/../IMLib" />
+            <option value="$PROJECT_DIR$/../NetModule" />
+            <option value="$PROJECT_DIR$/../app" />
+            <option value="$PROJECT_DIR$" />
+          </set>
+        </option>
+        <option name="resolveModulePerSourceSet" value="false" />
+      </GradleProjectSettings>
+    </option>
+  </component>
+</project>

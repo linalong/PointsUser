@@ -1,0 +1,106 @@
+[
+    {
+        "merged": "/Users/leo/百度云同步盘/workspace/android/studio/company/PointsUser/viewpagerIndicator/build/intermediates/res/merged/androidTest/debug/anim/slide_in_right.xml",
+        "source": "/Users/leo/百度云同步盘/workspace/android/studio/company/PointsUser/viewpagerIndicator/build/intermediates/exploded-aar/PointsUser/SwipeBackLibrary/unspecified/res/anim/slide_in_right.xml"
+    },
+    {
+        "merged": "/Users/leo/百度云同步盘/workspace/android/studio/company/PointsUser/viewpagerIndicator/build/intermediates/res/merged/androidTest/debug/anim/splash.xml",
+        "source": "/Users/leo/百度云同步盘/workspace/android/studio/company/PointsUser/viewpagerIndicator/build/intermediates/exploded-aar/PointsUser/mycommon/unspecified/res/anim/splash.xml"
+    },
+    {
+        "merged": "/Users/leo/百度云同步盘/workspace/android/studio/company/PointsUser/viewpagerIndicator/build/intermediates/res/merged/androidTest/debug/anim/slide_out_right.xml",
+        "source": "/Users/leo/百度云同步盘/workspace/android/studio/company/PointsUser/viewpagerIndicator/build/intermediates/exploded-aar/PointsUser/SwipeBackLibrary/unspecified/res/anim/slide_out_right.xml"
+    },
+    {
+        "merged": "/Users/leo/百度云同步盘/workspace/android/studio/company/PointsUser/viewpagerIndicator/build/intermediates/res/merged/androidTest/debug/anim/dialog_main_show_amination.xml",
+        "source": "/Users/leo/百度云同步盘/workspace/android/studio/company/PointsUser/viewpagerIndicator/build/intermediates/exploded-aar/PointsUser/materialDesign/unspecified/res/anim/dialog_main_show_amination.xml"
+    },
+    {
+        "merged": "/Users/leo/百度云同步盘/workspace/android/studio/company/PointsUser/viewpagerIndicator/build/intermediates/res/merged/androidTest/debug/anim/abc_fade_in.xml",
+        "source": "/Users/leo/百度云同步盘/workspace/android/studio/company/PointsUser/viewpagerIndicator/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/anim/abc_fade_in.xml"
+    },
+    {
+        "merged": "/Users/leo/百度云同步盘/workspace/android/studio/company/PointsUser/viewpagerIndicator/build/intermediates/res/merged/androidTest/debug/anim/abc_shrink_fade_out_from_bottom.xml",
+        "source": "/Users/leo/百度云同步盘/workspace/android/studio/company/PointsUser/viewpagerIndicator/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/anim/abc_shrink_fade_out_from_bottom.xml"
+    },
+    {
+        "merged": "/Users/leo/百度云同步盘/workspace/android/studio/company/PointsUser/viewpagerIndicator/build/intermediates/res/merged/androidTest/debug/anim/abc_fade_out.xml",
+        "source": "/Users/leo/百度云同步盘/workspace/android/studio/company/PointsUser/viewpagerIndicator/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/anim/abc_fade_out.xml"
+    },
+    {
+        "merged": "/Users/leo/百度云同步盘/workspace/android/studio/company/PointsUser/viewpagerIndicator/build/intermediates/res/merged/androidTest/debug/anim/popwindow_display.xml",
+        "source": "/Users/leo/百度云同步盘/workspace/android/studio/company/PointsUser/viewpagerIndicator/build/intermediates/exploded-aar/PointsUser/mycommon/unspecified/res/anim/popwindow_display.xml"
+    },
+    {
+        "merged": "/Users/leo/百度云同步盘/workspace/android/studio/company/PointsUser/viewpagerIndicator/build/intermediates/res/merged/androidTest/debug/anim/abc_popup_exit.xml",
+        "source": "/Users/leo/百度云同步盘/workspace/android/studio/company/PointsUser/viewpagerIndicator/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/anim/abc_popup_exit.xml"
+    },
+    {
+        "merged": "/Users/leo/百度云同步盘/workspace/android/studio/company/PointsUser/viewpagerIndicator/build/intermediates/res/merged/androidTest/debug/anim/dialog_root_show_amin.xml",
+        "source": "/Users/leo/百度云同步盘/workspace/android/studio/company/PointsUser/viewpagerIndicator/build/intermediates/exploded-aar/PointsUser/materialDesign/unspecified/res/anim/dialog_root_show_amin.xml"
+    },
+    {
+        "merged": "/Users/leo/百度云同步盘/workspace/android/studio/company/PointsUser/viewpagerIndicator/build/intermediates/res/merged/androidTest/debug/anim/abc_slide_in_bottom.xml",
+        "source": "/Users/leo/百度云同步盘/workspace/android/studio/company/PointsUser/viewpagerIndicator/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/anim/abc_slide_in_bottom.xml"
+    },
+    {
+        "merged": "/Users/leo/百度云同步盘/workspace/android/studio/company/PointsUser/viewpagerIndicator/build/intermediates/res/merged/androidTest/debug/anim/abc_slide_out_top.xml",
+        "source": "/Users/leo/百度云同步盘/workspace/android/studio/company/PointsUser/viewpagerIndicator/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/anim/abc_slide_out_top.xml"
+    },
+    {
+        "merged": "/Users/leo/百度云同步盘/workspace/android/studio/company/PointsUser/viewpagerIndicator/build/intermediates/res/merged/androidTest/debug/anim/right_in_anim.xml",
+        "source": "/Users/leo/百度云同步盘/workspace/android/studio/company/PointsUser/viewpagerIndicator/build/intermediates/exploded-aar/PointsUser/mycommon/unspecified/res/anim/right_in_anim.xml"
+    },
+    {
+        "merged": "/Users/leo/百度云同步盘/workspace/android/studio/company/PointsUser/viewpagerIndicator/build/intermediates/res/merged/androidTest/debug/anim/dialog_main_hide_amination.xml",
+        "source": "/Users/leo/百度云同步盘/workspace/android/studio/company/PointsUser/viewpagerIndicator/build/intermediates/exploded-aar/PointsUser/materialDesign/unspecified/res/anim/dialog_main_hide_amination.xml"
+    },
+    {
+        "merged": "/Users/leo/百度云同步盘/workspace/android/studio/company/PointsUser/viewpagerIndicator/build/intermediates/res/merged/androidTest/debug/anim/right_out_anim.xml",
+        "source": "/Users/leo/百度云同步盘/workspace/android/studio/company/PointsUser/viewpagerIndicator/build/intermediates/exploded-aar/PointsUser/mycommon/unspecified/res/anim/right_out_anim.xml"
+    },
+    {
+        "merged": "/Users/leo/百度云同步盘/workspace/android/studio/company/PointsUser/viewpagerIndicator/build/intermediates/res/merged/androidTest/debug/anim/dialog_root_hide_amin.xml",
+        "source": "/Users/leo/百度云同步盘/workspace/android/studio/company/PointsUser/viewpagerIndicator/build/intermediates/exploded-aar/PointsUser/materialDesign/unspecified/res/anim/dialog_root_hide_amin.xml"
+    },
+    {
+        "merged": "/Users/leo/百度云同步盘/workspace/android/studio/company/PointsUser/viewpagerIndicator/build/intermediates/res/merged/androidTest/debug/anim/alph_out.xml",
+        "source": "/Users/leo/百度云同步盘/workspace/android/studio/company/PointsUser/viewpagerIndicator/build/intermediates/exploded-aar/PointsUser/mycommon/unspecified/res/anim/alph_out.xml"
+    },
+    {
+        "merged": "/Users/leo/百度云同步盘/workspace/android/studio/company/PointsUser/viewpagerIndicator/build/intermediates/res/merged/androidTest/debug/anim/snackbar_hide_animation.xml",
+        "source": "/Users/leo/百度云同步盘/workspace/android/studio/company/PointsUser/viewpagerIndicator/build/intermediates/exploded-aar/PointsUser/materialDesign/unspecified/res/anim/snackbar_hide_animation.xml"
+    },
+    {
+        "merged": "/Users/leo/百度云同步盘/workspace/android/studio/company/PointsUser/viewpagerIndicator/build/intermediates/res/merged/androidTest/debug/anim/abc_popup_enter.xml",
+        "source": "/Users/leo/百度云同步盘/workspace/android/studio/company/PointsUser/viewpagerIndicator/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/anim/abc_popup_enter.xml"
+    },
+    {
+        "merged": "/Users/leo/百度云同步盘/workspace/android/studio/company/PointsUser/viewpagerIndicator/build/intermediates/res/merged/androidTest/debug/anim/progress_indeterminate_animation.xml",
+        "source": "/Users/leo/百度云同步盘/workspace/android/studio/company/PointsUser/viewpagerIndicator/build/intermediates/exploded-aar/PointsUser/materialDesign/unspecified/res/anim/progress_indeterminate_animation.xml"
+    },
+    {
+        "merged": "/Users/leo/百度云同步盘/workspace/android/studio/company/PointsUser/viewpagerIndicator/build/intermediates/res/merged/androidTest/debug/anim/abc_grow_fade_in_from_bottom.xml",
+        "source": "/Users/leo/百度云同步盘/workspace/android/studio/company/PointsUser/viewpagerIndicator/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/anim/abc_grow_fade_in_from_bottom.xml"
+    },
+    {
+        "merged": "/Users/leo/百度云同步盘/workspace/android/studio/company/PointsUser/viewpagerIndicator/build/intermediates/res/merged/androidTest/debug/anim/alph_in.xml",
+        "source": "/Users/leo/百度云同步盘/workspace/android/studio/company/PointsUser/viewpagerIndicator/build/intermediates/exploded-aar/PointsUser/mycommon/unspecified/res/anim/alph_in.xml"
+    },
+    {
+        "merged": "/Users/leo/百度云同步盘/workspace/android/studio/company/PointsUser/viewpagerIndicator/build/intermediates/res/merged/androidTest/debug/anim/popwindow_gone.xml",
+        "source": "/Users/leo/百度云同步盘/workspace/android/studio/company/PointsUser/viewpagerIndicator/build/intermediates/exploded-aar/PointsUser/mycommon/unspecified/res/anim/popwindow_gone.xml"
+    },
+    {
+        "merged": "/Users/leo/百度云同步盘/workspace/android/studio/company/PointsUser/viewpagerIndicator/build/intermediates/res/merged/androidTest/debug/anim/abc_slide_out_bottom.xml",
+        "source": "/Users/leo/百度云同步盘/workspace/android/studio/company/PointsUser/viewpagerIndicator/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/anim/abc_slide_out_bottom.xml"
+    },
+    {
+        "merged": "/Users/leo/百度云同步盘/workspace/android/studio/company/PointsUser/viewpagerIndicator/build/intermediates/res/merged/androidTest/debug/anim/abc_slide_in_top.xml",
+        "source": "/Users/leo/百度云同步盘/workspace/android/studio/company/PointsUser/viewpagerIndicator/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/anim/abc_slide_in_top.xml"
+    },
+    {
+        "merged": "/Users/leo/百度云同步盘/workspace/android/studio/company/PointsUser/viewpagerIndicator/build/intermediates/res/merged/androidTest/debug/anim/snackbar_show_animation.xml",
+        "source": "/Users/leo/百度云同步盘/workspace/android/studio/company/PointsUser/viewpagerIndicator/build/intermediates/exploded-aar/PointsUser/materialDesign/unspecified/res/anim/snackbar_show_animation.xml"
+    }
+]

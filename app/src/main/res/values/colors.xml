@@ -1,0 +1,49 @@
+<resources>
+
+    <color name="white">#ffffff</color>
+    <color name="translation">#00000000</color>
+    <color name="black">#000000</color>
+    <color name="black1">#666666</color>
+    <color name="black2">#333333</color>
+    <color name="black3">#313131</color>
+    <color name="black4">#4d4d4d</color>
+    <color name="black5">#70000000</color>
+    <color name="black6">#36363b</color>
+    <color name="black7">#484848</color>
+    <color name="black8">#80000000</color>
+    <color name="black9">#262626</color>
+    <!-- 背景色 -->
+    <color name="bg">#eeeeee</color>
+    <!-- 深灰 -->
+    <color name="gray1">#999999</color>
+    <!-- 浅灰 -->
+    <color name="gray2">#cccccc</color>
+    <color name="gray3">#686868</color>
+    <color name="gray4">#fafafa</color>
+    <color name="gray5">#EBECED</color>
+    <color name="green">#1ecda6</color>
+    <color name="gray8">#f6f6f6</color>
+    <color name="gray6">#e6e6e6</color>
+    <color name="gray7">#eeeeee</color>
+    <color name="gray9">#ababab</color>
+    <color name="gray10">#999999</color>
+    <color name="gray11">#555555</color>
+    <color name="gray12">#EAEAEA</color>
+    <color name="blue1">#52c0ea</color>
+    <color name="blue2">#244264</color>
+    <color name="blue3">#376599</color>
+    <color name="blue4">#007aff</color>
+    <color name="blue5">#14253F</color>
+    <color name="blue6">#17c5ff</color>
+    <color name="blue7">#29A4FA</color>
+    <color name="green1">#04c628</color>
+    <color name="yellow1">#d6a41d</color>
+    <color name="yellow2">#d29637</color>
+    <color name="orange">#ff9e00</color>
+    <color name="red">#e43932</color>
+    <color name="red2">#900000</color>
+    <color name="viewfinder_mask">#60000000</color>
+    <color name="result_view">#b0000000</color>
+    <color name="possible_result_points">#c0ffff00</color>
+
+</resources>

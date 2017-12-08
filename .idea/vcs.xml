@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/PullToRefresh" vcs="svn" />
+    <mapping directory="$PROJECT_DIR$/SwipeBackLibrary" vcs="svn" />
+    <mapping directory="$PROJECT_DIR$/citypickerview" vcs="svn" />
+    <mapping directory="$PROJECT_DIR$/materialDesign" vcs="svn" />
+    <mapping directory="$PROJECT_DIR$/mycommon" vcs="svn" />
+    <mapping directory="$PROJECT_DIR$/xutils" vcs="svn" />
+  </component>
+</project>
